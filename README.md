@@ -2,7 +2,7 @@
 
 Sou mãe de 2! <3
 
-<img src = ""> 
+<--!<img src = ""> -->
 
 Olá 👋
 
@@ -20,7 +20,7 @@ Sou mãe de 3! <3
 <table>
     <tr>
         <td><img width="400px" align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=uccelibr&hide=html&layout=compact&theme=buefy" /></td>
-        <td><img width="495px" align="left" src="https://g
+        
 
         <td><img width="495px" align="left" src="https://github-readme-stats.vercel.app/api?username=uccelibr&theme=buefy"/></td>
     </tr>   
