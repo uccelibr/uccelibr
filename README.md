@@ -23,6 +23,6 @@ Sou mãe de 3! <3
         
         <td><img width="495px" align="left" src="https://github-readme-stats.vercel.app/api?username=uccelibr&theme=buefy"/></td>
     </tr>   
-    </tr>   
+   
 </table>
 </center>  
