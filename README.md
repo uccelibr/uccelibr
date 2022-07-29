@@ -21,7 +21,7 @@ Sou mãe de 3! <3
     <tr>
         <td><img width="400px" align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=uccelibr&hide=html&layout=compact&theme=buefy" /></td>
         
-         <td><img width="400px" align="left" src="https://github-readme-stats.vercel.app/api?username=uccelibr&theme=buefy" /></td>
+         <!-- <td><img width="400px" align="left" src="https://github-readme-stats.vercel.app/api?username=uccelibr&theme=buefy" /></td> -->
     </tr>   
    
 </table>
